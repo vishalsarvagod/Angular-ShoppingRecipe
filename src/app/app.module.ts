@@ -25,7 +25,7 @@ import { DropdownDirective } from './Shared/dropdown.directive'
     RecipeItemComponent,
     ShoppingListComponent,
     ShoppingEditComponent,
-    FormsModule,
+    // FormsModule,
     DropdownDirective
   ],
   imports: [
